@@ -1,0 +1,12 @@
+{
+    "name": "registration-form",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "description": "��#\u0000 \u0000e\u0000v\u0000e\u0000n\u0000t\u0000-\u0000r\u0000e\u0000g\u0000i\u0000s\u0000t\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+    "main": "test.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
